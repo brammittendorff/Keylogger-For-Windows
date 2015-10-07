@@ -1,6 +1,8 @@
-# Why
+# Virustotal
 
-For teh lulz
+[Imgur](http://i.imgur.com/D3tOhml.png?1)
+
+** feel free to fork and help me code better **
 
 # Pre Compiling
 
@@ -10,7 +12,7 @@ For teh lulz
 
 * And then finally you can compile.
 
-# Compile your project
+# Compiling
 
 Navigate to your directory there you will see "main.cpp" this is your main codez file. After that you can think of a nice name you want to give your progam like "keymaster.exe". So if you want to compile this you will need to use this line below:
 
