@@ -1,6 +1,6 @@
 # Virustotal
 
-[Imgur](http://i.imgur.com/D3tOhml.png?1)
+![Imgur](http://i.imgur.com/D3tOhml.png)
 
 ** feel free to fork and help me code better **
 
